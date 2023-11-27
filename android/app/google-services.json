@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "875555456471",
+    "firebase_url": "https://marhaba2023-33da0-default-rtdb.firebaseio.com",
+    "project_id": "marhaba2023-33da0",
+    "storage_bucket": "marhaba2023-33da0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875555456471:android:8c2a468113f96bbf5b3792",
+        "android_client_info": {
+          "package_name": "com.last.tagxi.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRwJtmtCMADubca1_K-mJ0cPUf3yuhwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875555456471:android:a2673ce8f5f6ed9f5b3792",
+        "android_client_info": {
+          "package_name": "com.tagxi.clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRwJtmtCMADubca1_K-mJ0cPUf3yuhwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875555456471:android:eb68b24c4398dd585b3792",
+        "android_client_info": {
+          "package_name": "com.tagxiclone.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRwJtmtCMADubca1_K-mJ0cPUf3yuhwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
