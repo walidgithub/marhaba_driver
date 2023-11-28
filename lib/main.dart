@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
             builder: (context, value, child) {
               return MaterialApp(
                   debugShowCheckedModeBanner: false,
-                  title: 'Marahaba',
+                  title: 'Marhaba',
                   theme: ThemeData(),
                   home: const LoadingPage());
             }));
